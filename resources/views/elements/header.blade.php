@@ -29,10 +29,8 @@
 
 
     <!-- Le styles -->
-    <link href="{{ asset('/css/font-awesome.css') }}" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link href="{{ asset('/css/coupon.min.css') }}" rel="stylesheet">
-    <link rel="shortcut icon" href="__LINK ICO__">
-    <link rel="apple-touch-icon" href="__LINK APP__">
 
 
 </head>
